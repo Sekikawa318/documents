@@ -3,6 +3,7 @@
 - GCI2019
   - GCI2019に参加した時のコンペ提出資料(2位 / 900)
 - Nishika
+  - [生鮮野菜の価格予測](https://www.nishika.com/competitions/32/summary)(11位 / 300)
 - その他
 - 分析基盤
   - 分析基盤を作ってみた時の発表資料
