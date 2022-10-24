@@ -15,6 +15,6 @@
 
 ## 他リポジトリ
 - House Price
-  - 住宅情報からお得物件を探す
+  - 自然言語処理を活用して住宅情報からお得物件を探す
 - webserver-django-training
   - djangoを動かしてサーバ周りの勉強をする
