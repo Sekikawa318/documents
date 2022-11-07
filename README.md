@@ -14,7 +14,7 @@
   - EffcientNetを使った画像分類
 
 ## 他リポジトリ
-- House Price
+- [House Price](https://github.com/Sekikawa318/house_price)
   - 自然言語処理を活用して住宅情報からお得物件を探す
-- webserver-django-training
+- [webserver-django-training](https://github.com/Sekikawa318/webserver-django-training)
   - djangoを動かしてサーバ周りの勉強をする
