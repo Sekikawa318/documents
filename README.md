@@ -12,6 +12,7 @@
   - tweetのテキストからカテゴリを予測するBertモデル
 - その他
   - EffcientNetを使った画像分類
+    - MixUpやTTAのAugumentation
 
 ## 他リポジトリ
 - [House Price](https://github.com/Sekikawa318/house_price)
